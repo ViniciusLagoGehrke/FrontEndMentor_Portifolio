@@ -4,7 +4,7 @@
 
 This website is a showcase exercises where I practiced my skills in HTML, CSS and also JS. The page itself was done using React, Material UI and the Github API.
 
-You can see it live ![here](https://front-end-portfolio.vercel.app/).
+You can see it live [here](https://front-end-portfolio.vercel.app/).
 
 ## Front End Mentor
 
